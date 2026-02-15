@@ -19,7 +19,6 @@ This program:
 - Conditional statements (`if-else`)
 - Modulus operator (`%`)
 - Formatted strings (f-strings)
-
 ## Task 2: Sum of Integers from 1 to 50
 
 ### Description
