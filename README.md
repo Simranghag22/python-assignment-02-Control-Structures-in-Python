@@ -1,9 +1,11 @@
 # python-assignment-02-Control-Structures-in-Python
 
-This repository contains Python programs demonstrating the use of conditional statements and loops.
-
+This repository contains Python programs on Control Structors-in-Python.
+### Task 1: Check if a Number is Even or Odd
+### Task 2: Sum of Integers from 1 to 50
 ---
-#Task 1: Check if a Number is Even or Odd
+
+## Task 1: Check if a Number is Even or Odd
 
 ### Description
 This program:
@@ -18,7 +20,7 @@ This program:
 - Modulus operator (`%`)
 - Formatted strings (f-strings)
 
-Task 2: Sum of Integers from 1 to 50
+## Task 2: Sum of Integers from 1 to 50
 
 ### Description
 This program:
@@ -34,3 +36,16 @@ This program:
 - Arithmetic operations
 
 ---
+## How to Run the Programs
+### Using Google Colab:
+### Step 1: Download the Task-01 and Task-02 '.ipynb' files.
+### Step 2: Open Google Colab
+Go to: https://colab.research.google.com
+### Step 3: Create a New Notebook
+- Click File → New Notebook
+### Step 4: Upload the Python file
+- Click the folder icon on the left panel
+- Click Upload
+- Select the Task-1 or Task-02 .ipynb file
+### Step 5: Execute the file
+### Step 6: Press Shift + Enter to run the program.
